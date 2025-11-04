@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+}
+#fightBtn {
+  margin-bottom: 100px;
+  font-family: monospace ;
+  padding: 15px;
+  font-weight: 400;
+  color: orangered;
+  background-color: rgb(220, 174, 81);
+  border-radius: 10px;
+ 
+  font-weight: 400;
+  border: 1px dotted;
+}
+#stage {
+  margin-bottom: 30px;
+  font-family: "Rubik Spray Paint", system-ui;
+  font-weight: 100;
+}
+h1 {
+  margin-top: 100px;
+  color: orange;
+  font-family: "Rubik Spray Paint", system-ui;
+  font-weight: 100;
+  transform: rotate(-7deg);
+}
